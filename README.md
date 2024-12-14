@@ -1,4 +1,4 @@
-# Nuking Discord Server Bot/Nuke Bot  
+# Lunarx Nuking Bot
 Lunarx is currently the **FASTEST** and **FREE** open-source, self-hosted nuke bot available. All commands are specifically designed for **nuking-related** purposes.  
 
 If you need assistance with the bot, feel free to contact me on Discord at **@230607x**. Please note, I might not respond immediately after you add me, but I will get back to you.  
